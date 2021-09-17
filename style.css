@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(0, 255, 42);
+    font-family: verdana;
+}
+
+body { 
+    background-color: royalblue; }
+
+
+    .container {
+        max-width: 200px;
+      }
+      
+      .wrap {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;  
+      }
+
